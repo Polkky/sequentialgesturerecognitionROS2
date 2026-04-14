@@ -45,7 +45,7 @@ This node can recognize the following gesture sequences (individual gestures fro
 4) Run the sequence recognition node
    ```
    # New terminal
-   ros2 gr_sequence sequence_node
+   ros2 run gr_sequence sequence_node
    
    # Optional: echo the topic in a new terminal
    ros2 topic echo /gesture_sequence
