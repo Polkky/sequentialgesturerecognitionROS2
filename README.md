@@ -27,7 +27,8 @@ This node can recognize the following gesture sequences (individual gestures fro
 ---
 
 ## Installation
-1) Install ROS2 MediaPipe Suite by PME26Elvis (https://github.com/PME26Elvis/mediapipe_ros2_suite)
+1) Install ROS2 MediaPipe Suite by PME26Elvis (https://github.com/PME26Elvis/mediapipe_ros2_suite)\
+   
       1.1) Recommended to use the MediaPipe full Hand Landmarker and Hand Gesture Classifier modles (found here: ai.google.dev/edge/mediapipe/solutions/),
            this node was made using them and relies on the gestures defined in them.
 2) Install and build this node:
